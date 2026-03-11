@@ -42,7 +42,7 @@ The dataset contains telecom customer information including:
 Customers with month-to-month contracts show the highest churn rate.
 
 ### 2. Tenure
-Customers with longer tenure are significantly less likely to churn**.
+Customers with shorter tenure  shows a high churn rate.
 
 ### 3. Monthly Charges
 Higher monthly charges are correlated with increased churn.
